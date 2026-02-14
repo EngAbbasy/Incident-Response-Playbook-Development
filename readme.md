@@ -44,3 +44,12 @@ After clicking the malicious link and submitting credentials, the incident respo
 
 ## 🏗 Project Structure
 
+The repository is organized to clearly separate project components:
+
+- **Report/** → Final academic report
+- **Presentation/** → Project presentation slides
+- **Playbook/** → Incident response procedures
+- **Diagrams/** → Visual workflow and response diagrams
+- **Documentation/** → Roles, responsibilities, and communication plans
+
+
