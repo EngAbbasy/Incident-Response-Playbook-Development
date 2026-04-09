@@ -52,4 +52,7 @@ The repository is organized to clearly separate project components:
 - **Diagrams/** → Visual workflow and response diagrams
 - **Documentation/** → Roles, responsibilities, and communication plans
 
+## 📚 Additional Sections
+- Project Planning & Management
+- Literature Review
 
