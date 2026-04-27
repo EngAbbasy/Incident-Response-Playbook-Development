@@ -106,19 +106,16 @@ Design a structured and practical Incident Response Playbook to effectively dete
 
 ### 5.2 System Architecture
 **Architecture Style**: Layered Architecture
-┌─────────────────────────────────┐
-│    Presentation Layer           │
-│    (Playbook Interface)         │
-├─────────────────────────────────┤
-│    Business Logic Layer         │
-│    (Procedures & Workflows)     │
-├─────────────────────────────────┤
-│    Data Layer                   │
-│    (Incident Database)          │
-├─────────────────────────────────┤
-│    Integration Layer            │
-│    (SIEM, Email Gateway)        │
-└─────────────────────────────────┘
+```mermaid
+flowchart TB
+    A[Presentation Layer<br>Playbook Interface]
+    B[Business Logic Layer<br>Procedures & Workflows]
+    C[Data Layer<br>Incident Database]
+    D[Integration Layer<br>SIEM, Email Gateway]
+
+    A --> B --> C --> D
+```
+
 
 ### 5.3 Database Design (ER Diagram)
 ![ER Diagram](../Diagrams/ER_Diagram.png)
