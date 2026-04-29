@@ -39,37 +39,41 @@ Design a structured and practical **Incident Response Playbook** to effectively 
 
 ---
 
-📦 Incident-Response-Playbook-Development/
+```
+## 📁 Project Structure
+
+Incident-Response-Playbook-Development/
 │
-├── 📄 README.md                # Main project overview
+├── README.md                      # Main project overview
 │
-├── 📁 Diagrams/               # UML Diagrams
-│   ├── 📄 README.md
-│   ├── 🖼️ Use_Case_Diagram.png
-│   ├── 🖼️ ER_Diagram.png
-│   ├── 🖼️ DFD_Context.png
-│   └── 🖼️ Sequence_Diagram.png
+├── Diagrams/                      # UML Diagrams
+│   ├── README.md
+│   ├── Use_Case_Diagram.png
+│   ├── ER_Diagram.png
+│   ├── DFD_Context.png
+│   └── Sequence_Diagram.png
 │
-├── 📁 Documentation/          # Requirements & Analysis
-│   └── 📄 01_Requirements.md
+├── Documentation/                # Requirements & Analysis
+│   └── 01_Requirements.md
 │
-├── 📁 Literature-Review/      # Literature Review
-│   └── 📄 literature_review.md
+├── Literature-Review/            # Literature Review
+│   └── literature_review.md
 │
-├── 📁 Planning/               # Project Planning
-│   └── 📄 project_planning.md
+├── Planning/                     # Project Planning
+│   └── project_planning.md
 │
-├── 📁 Playbook/               # Incident Response Playbook Content
-│   └── 📄 README.md
+├── Playbook/                     # Incident Response Playbook Content
+│   └── README.md
 │
-├── 📁 Presentation/           # Presentation Slides
-│   └── 📄 (Add your PPT/PDF here)
+├── Presentation/                 # Presentation Slides
+│   └── (Add your PPT/PDF here)
 │
-├── 📁 Report/                 # Final Reports
-│   └── 📄 Final_Report.md
+├── Report/                       # Final Reports
+│   └── Final_Report.md
 │
-└── 📄 readme.md               # Original/backup readme
----
+└── readme.md                     # Original/backup readme
+```
+
 
 ## 🚀 Quick Navigation
 
