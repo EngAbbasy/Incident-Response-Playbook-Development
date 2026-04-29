@@ -39,38 +39,36 @@ Design a structured and practical **Incident Response Playbook** to effectively 
 
 ---
 
-## 📁 Project Structure
 📦 Incident-Response-Playbook-Development/
 │
-├── 📄 README.md                          ← You are here
+├── 📄 README.md                # Main project overview
 │
-├── 📁 Diagrams/                          ← UML Diagrams
+├── 📁 Diagrams/               # UML Diagrams
 │   ├── 📄 README.md
 │   ├── 🖼️ Use_Case_Diagram.png
 │   ├── 🖼️ ER_Diagram.png
 │   ├── 🖼️ DFD_Context.png
 │   └── 🖼️ Sequence_Diagram.png
 │
-├── 📁 Documentation/                     ← Requirements & Analysis
+├── 📁 Documentation/          # Requirements & Analysis
 │   └── 📄 01_Requirements.md
 │
-├── 📁 Literature-Review/                 ← Literature Review
+├── 📁 Literature-Review/      # Literature Review
 │   └── 📄 literature_review.md
 │
-├── 📁 Planning/                          ← Project Planning
+├── 📁 Planning/               # Project Planning
 │   └── 📄 project_planning.md
 │
-├── 📁 Playbook/                          ← IR Playbook Content
-│   └── 📄 Readme.md
+├── 📁 Playbook/               # Incident Response Playbook Content
+│   └── 📄 README.md
 │
-├── 📁 Presentation/                      ← Presentation Slides
+├── 📁 Presentation/           # Presentation Slides
 │   └── 📄 (Add your PPT/PDF here)
 │
-├── 📁 Report/                            ← Final Reports
+├── 📁 Report/                 # Final Reports
 │   └── 📄 Final_Report.md
 │
-└── 📄 readme.md                          ← Original readme
-
+└── 📄 readme.md               # Original/backup readme
 ---
 
 ## 🚀 Quick Navigation
