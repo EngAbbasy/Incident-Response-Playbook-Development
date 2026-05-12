@@ -24,10 +24,8 @@
 
 ## 🎯 Project Overview
 
-**Course:** [اسم المادة]  
-**University:** [اسم الجامعة]  
-**Supervisor:** [اسم الدكتور]  
-**Date:** April 2026
+**Course:** [IR]  
+**Supervisor:** [ENG / MOHAMED]  
 
 ### Objective
 Design a structured and practical **Incident Response Playbook** to effectively detect, contain, eradicate, and recover from phishing attacks within an organization.
@@ -176,7 +174,7 @@ Incident-Response-Playbook-Development/
 | 1 | **Mohamed Ahmed El-Abbasy** | Project Manager / Team Lead | [@EngAbbasy](https://github.com/EngAbbasy) |
 | 2 | **Omar Sherif Ibrahim** | Lead Analyst | - |
 | 3 | **Mohamed Hesham Farouk** | Security Specialist | - |
-| 4 | **Khaled Saeed Abdel-Maaboud** | Documentation Lead | - |
+| 4 | **Marvel Ghobrial** | Documentation Lead | - |
 
 ---
 
