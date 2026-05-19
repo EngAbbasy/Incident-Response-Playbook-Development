@@ -172,7 +172,6 @@ Incident-Response-Playbook-Development/
 | # | Name | Role | GitHub |
 |---|------|------|--------|
 | 1 | **Mohamed Ahmed El-Abbasy** | Project Manager / Team Lead | [@EngAbbasy](https://github.com/EngAbbasy) |
-| 2 | **Omar Sherif Ibrahim** | Lead Analyst | - |
 | 3 | **Mohamed Hesham Farouk** | Security Specialist | - |
 | 4 | **Marvel Ghobrial** | Documentation Lead | - |
 
