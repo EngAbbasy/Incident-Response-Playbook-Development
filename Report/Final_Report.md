@@ -11,9 +11,8 @@ Development of an Incident Response Playbook for Phishing Attacks
 | Name | Role |
 |------|------|
 | Mohamed Ahmed Mohamed El-Abbasy | Project Manager |
-| Omar Sherif Ibrahim | Lead Analyst |
 | Mohamed Hesham Farouk | Security Specialist |
-| Khaled Saeed Abdel-Maaboud | Documentation Lead |
+| Marvel Ghobrial | Documentation Lead |
 
 ### 1.3 Project Objective
 Design a structured and practical Incident Response Playbook to effectively detect, contain, eradicate, and recover from phishing attacks within an organization.
