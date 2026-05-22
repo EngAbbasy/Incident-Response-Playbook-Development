@@ -232,7 +232,7 @@ Incident-Response-Playbook-Development/
 - [x] Simulation Scenario
 - [x] UML Documentation
 - [x] Final Report
-- [ ] Presentation (Optional)
+- [x] Presentation
 
 ---
 
