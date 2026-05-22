@@ -210,6 +210,38 @@ Incident-Response-Playbook-Development/
 
 ---
 
+# 📊 Project Presentation
+
+This section contains the project presentation materials for the Incident Response Playbook Development project.
+
+## 📁 Presentation Contents
+
+- 🎞️ PowerPoint Presentation
+- 🗣️ Presentation Script / Talking Points
+- 📌 Workflow & Incident Response Explanation
+
+## 📂 Files
+
+| File | Description |
+|------|-------------|
+| `Incident_Response_Playbook_Presentation.pptx` | Main project presentation |
+| `README.md` | Presentation overview |
+
+## 🚀 Presentation Topics
+
+- Incident Response Lifecycle
+- Phishing Attack Scenario
+- Malware Incident Handling
+- Containment & Eradication
+- Recovery Process
+- Lessons Learned
+- SOC Workflow
+- SIEM Monitoring
+
+📁 Location: `/Presentation`
+
+---
+
 ## 📚 References
 
 1. [NIST SP 800-61 Rev. 2](https://doi.org/10.6028/NIST.SP.800-61r2) - Computer Security Incident Handling Guide
